@@ -4,7 +4,7 @@ In a PC using a single core (Intel(R)Core(TM)i7-4790 CPU@3.60GHz), it cost about
 
 The experiment result (The key is randomly generated.):
 24-bit Equivalent Right Key (Key[0]^Key[5],Key[2]^Key[7],Key[4]): 0x21,0xd9,0x73
-b5 55 81 1f 77 28 61 8d  = b5 55 81 1f 77 28 61 8d
+
 24-bit Equivalent Candidate Key (Key[0]^Key[5],Key[2]^Key[7],Key[4]): 0x21,0xd9,0x73
 
 
